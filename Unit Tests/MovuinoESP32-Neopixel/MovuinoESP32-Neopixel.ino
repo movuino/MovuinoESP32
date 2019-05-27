@@ -5,7 +5,7 @@
 
 // Which pin on the Arduino is connected to the NeoPixels?
 // On a Trinket or Gemma we suggest changing this to 1
-#define PIN           A7//gpio12
+#define PIN           15//gpio12
 //gpio15 OK
 //gpio2 OK
 //gpio14 OK
