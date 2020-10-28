@@ -7,7 +7,7 @@ Note : This procedure is temporary before we commit the movuino esp32 board to t
 
 1/Install CP2104 Drivers  https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 
-2/The support for ESP32 has to be installed following those instructions : 
+2/The support for ESP32 has to be installed following those instructions (lateste core version works) : 
 https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md
 
 
